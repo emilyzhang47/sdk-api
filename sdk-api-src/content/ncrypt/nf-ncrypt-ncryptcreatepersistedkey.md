@@ -1,4 +1,4 @@
----
+--- 
 UID: NF:ncrypt.NCryptCreatePersistedKey
 title: NCryptCreatePersistedKey function (ncrypt.h)
 description: Creates a new key and stores it in the specified key storage provider.
